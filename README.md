@@ -87,11 +87,22 @@ plt.show()  # Show the second plot separately
 EVALUTION
 
 
+
+![Screenshot (34)](https://github.com/user-attachments/assets/7a16a6f0-3331-4ce8-9723-5fba8becd216)
+
+
 TEST_PREDICTION
 
+
+![Screenshot (51)](https://github.com/user-attachments/assets/0f08a7d2-8ff5-4d52-bfb3-9f0debcdc5fa)
 
 
 FINAL_PREDICTION
 
+
+
+![Screenshot (35)](https://github.com/user-attachments/assets/a7b204e4-a351-45f0-aec9-a6718877e2d0)
+
 ## RESULT:
-Thus the program run successfully based on the Holt Winters Method model.
+
+Therefore a python program has been executed successfully based on the Holt Winters Method model.
